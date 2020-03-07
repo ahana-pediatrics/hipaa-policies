@@ -50,7 +50,7 @@ Ahana is committed to ensuring all workforce members actively address security a
 
 Ahana workforce members are to escalate issues using the procedures outlined in the Employee Handbook. Issues that are brought to the Escalation Team are assigned an owner. The membership of the Escalation Team is maintained by the Chief Executive Officer.
 
-Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](#11.2-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](#12.2-datica-breach-policy). Refer to [§11.2](#11.2-incident-management-policies) for a list of sample items that can trigger Ahana's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
+Security incidents, particularly those involving ePHI, are handled using the process described in [§11.2](#11.2-incident-management-policies). If the incident involves a breach of ePHI, the Security Officer will manage the incident using the process described in [§12.2](#12.2-ahana-breach-policy). Refer to [§11.2](#11.2-incident-management-policies) for a list of sample items that can trigger Ahana's incident response procedures; if you are unsure whether the issue is a security incident, contact the Security Officer immediately.
 
 It is the duty of that owner to follow the process outlined below:
 

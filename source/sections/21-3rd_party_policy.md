@@ -29,7 +29,7 @@ Ahana makes every effort to assure all 3rd party organizations are compliant and
 5. No Ahana Customers or Partners have access outside of their own environment, meaning they cannot access, modify, or delete anything related to other 3rd parties.
 6. Ahana does not outsource software development.
 7. Ahana maintains and annually reviews a list all current Partners and Subcontractors.
-   - The list of current Partners and Subcontractors is maintained by the Ahana Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.4](#1.4-datica-organizational-concepts).
+   - The list of current Partners and Subcontractors is maintained by the Ahana Privacy Officer, includes details on all provided services (along with contact information), and is recorded in [§1.4](#1.4-ahana-organizational-concepts).
    - The annual review of Partners and Subcontractors is conducted as a part of the security, compliance, and SLA review referenced below.
 8. Ahana assesses security, compliance, and SLA requirements and considerations with all Partners and Subcontractors. This includes annual assessment of SOC2 reports for all Ahana infrastructure partners.
    - Ahana leverages recurring calendar invites to assure reviews of all 3rd party services are performed annually. These reviews are performed by the Ahana Security Officer and Privacy Officer. The process for reviewing 3rd party services is outlined below:
