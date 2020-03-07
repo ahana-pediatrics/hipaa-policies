@@ -18,3 +18,9 @@ desc "Run a simple web server within the build directory"
 task :serve_static do
   system("cd build && python -m SimpleHTTPServer 8888")
 end
+
+desc "Deploy site to AWS"
+task :deploy do
+  system("aws s3 sync build s3://policy.ahanapediatrics.com")
+  system("aws cloudfront create-invalidation --distribution-id E10IGBL3RQGLLT --paths /\\*")
+end
