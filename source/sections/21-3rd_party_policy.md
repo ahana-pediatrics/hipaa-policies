@@ -24,7 +24,7 @@ Ahana makes every effort to assure all 3rd party organizations are compliant and
 3. A standard business associate agreement with Customers and Partners is defined and includes the required security controls in accordance with the organization's security policies. Additionally, responsibility is assigned in these agreements.
 4. Ahana has Service Level Agreements (SLAs) with Subcontractors with an agreed service arrangement addressing liability, service definitions, security controls, and aspects of services management.
    - Subcontractors must coordinate, manage, and communicate any changes to services provided to Ahana.
-   - Changes to 3rd party services are classified as configuration management changes and thus are subject to the policies and procedures described in [§9](#9.-configuration-management-policy); substantial changes to services provided by 3rd parties will invoke a Risk Assessment as described in [§4.2](#4.2-risk-management-policies).
+   - Changes to 3rd party services are classified as configuration management changes and thus are subject to the policies and procedures described in [§9](#9-configuration-management-policy); substantial changes to services provided by 3rd parties will invoke a Risk Assessment as described in [§4.2](#4.2-risk-management-policies).
    - Ahana utilizes monitoring tools to regularly evaluate Subcontractors against relevant SLAs.
 5. No Ahana Customers or Partners have access outside of their own environment, meaning they cannot access, modify, or delete anything related to other 3rd parties.
 6. Ahana does not outsource software development.

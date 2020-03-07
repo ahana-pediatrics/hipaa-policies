@@ -67,7 +67,7 @@ Ahana standardizes and automates configuration management through the use of Che
    - Installing and configuring the NTP daemon, including ensuring that modifying system time cannot be performed by unprivileged users.
    - Configuring LUKS volumes for providers that do not have native support for encrypted data volumes, including ensuring that encryption keys are protected from unauthorized access.
    - Configuring authentication to the centralized LDAP servers.
-   - Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
+   - Configuring audit logging as described in the [Auditing Policy section](#8-auditing-policy).
 2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### 9.3.2 Provisioning Windows Systems
@@ -81,7 +81,7 @@ Ahana standardizes and automates configuration management through the use of Che
    - Installing and configuring the Avast virus scanner.
    - Configuring transport encryption according to the requirements described in [§17.9](#17.9-transmission-security).
    - Configuring the system clock, including ensuring that modifying system time cannot be performed by unprivileged users.
-   - Configuring audit logging as described in the [Auditing Policy section](#8.-auditing-policy).
+   - Configuring audit logging as described in the [Auditing Policy section](#8-auditing-policy).
 2. Any additional Salt states applied to the Linux system must be clearly documented by the ops team member in the DT request by specifying the purpose of the new system.
 
 ### 9.3.3 Provisioning Management Systems
