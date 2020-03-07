@@ -45,3 +45,4 @@ _Commands_
 - `rake sass` will compile any changes made to `assets/css/styles.scss`
 - `rake build` will build the static site into the `build` directory
 - `rake serve_static` will create a simple HTTP server for the `build` directory
+- `rake deploy` will deploy this to our policy site (if you have the right credentials)
