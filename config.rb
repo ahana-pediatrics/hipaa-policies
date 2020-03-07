@@ -1,6 +1,6 @@
 require 'builder'
 
-Time.zone = "UTC"
+Time.zone = "America/Chicago"
 
 set :css_dir, 'assets/css'
 set :js_dir, 'assets/js'
@@ -18,7 +18,7 @@ set :markdown, :xhtml => true, :fenced_code_blocks => true, :smartypants => true
 
 activate :syntax, :wrap => true
 
-set :url_root, 'https://policy.datica.com'
+set :url_root, 'https://policy.ahanapediatrics.com'
 
 activate :search_engine_sitemap
 

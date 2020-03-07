@@ -1,59 +1,59 @@
 # 11. Incident Response Policy
 
-Datica implements an information security incident response process to consistently detect, respond to, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
+Ahana implements an information security incident response process to consistently detect, respond to, and report incidents, minimize loss and destruction, mitigate the weaknesses that were exploited, and restore information system functionality and business continuity as soon as possible.
 
 The incident response process addresses:
 
-* Continuous monitoring of threats through intrusion detection systems (IDS) and other monitoring applications;
-* Establishment of an information security incident response team;
-* Establishment of procedures to respond to media inquiries;
-* Establishment of clear procedures for identifying, responding, assessing, analyzing, and follow-up of information security incidents;
-* Workforce training, education, and awareness on information security incidents and required responses; and
-* Facilitation of clear communication of information security incidents with internal, as well as external, stakeholders.
+- Continuous monitoring of threats through intrusion detection systems (IDS) and other monitoring applications;
+- Establishment of an information security incident response team;
+- Establishment of procedures to respond to media inquiries;
+- Establishment of clear procedures for identifying, responding, assessing, analyzing, and follow-up of information security incidents;
+- Workforce training, education, and awareness on information security incidents and required responses; and
+- Facilitation of clear communication of information security incidents with internal, as well as external, stakeholders.
 
-*Note:* These policies were adapted from work by the [HIPAA Collaborative of Wisconsin Security Networking Group](http://hipaacow.org/wp-content/uploads/2015/02/HCR-Security-Incident-Response-FINAL-12.18.14.doc). Refer to the linked document for additional copyright information.
+_Note:_ These policies were adapted from work by the [HIPAA Collaborative of Wisconsin Security Networking Group](http://hipaacow.org/wp-content/uploads/2015/02/HCR-Security-Incident-Response-FINAL-12.18.14.doc). Refer to the linked document for additional copyright information.
 
 ## 11.1 Applicable Standards
 
 ### 11.1.1 Applicable Standards from the HITRUST Common Security Framework
 
-* 11.a - Reporting Information Security Events
-* 11.c - Responsibilities and Procedures
+- 11.a - Reporting Information Security Events
+- 11.c - Responsibilities and Procedures
 
 ### 11.1.2 Applicable Standards from the HIPAA Security Rule
 
-* 164.308(a)(5)(i) - Security Awareness and Training
-* 164.308(a)(6) - Security Incident Procedures
+- 164.308(a)(5)(i) - Security Awareness and Training
+- 164.308(a)(6) - Security Incident Procedures
 
 ## 11.2 Incident Management Policies
 
-The Datica incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](sections/incident-flowchart.pdf).
+The Ahana incident response process follows the process recommended by [SANS](https://www.sans.org), an industry leader in security. Process flows are a direct representation of the SANS process which can be found in [this document](sections/incident-flowchart.pdf).
 
-Datica's incident response classifies security-related events into the following categories:
+Ahana's incident response classifies security-related events into the following categories:
 
-* **Events** - Any observable computer security-related occurrence in a system or network with a negative consequence. Examples:
-  * Hardware component failing causing service outages.
-  * Software error causing service outages.
-  * General network or system instability.
-* **Precursors** - A sign that an incident may occur in the future. Examples:
-  * Monitoring system showing unusual behavior.
-  * Audit log alerts indicated several failed login attempts.
-  * Suspicious emails targeting specific Datica staff members with administrative access to production systems.
-* **Indications** - A sign that an incident may have occurred or may be occurring at the present time. Examples:
-  * IDS alerts for modified system files or unusual system accesses.
-  * Antivirus alerts for infected files.
-  * Excessive network traffic directed at unexpected geographic locations.
-* **Incidents** - A violation of computer security policies or acceptable use policies, often resulting in data breaches. Examples:
-  * Unauthorized disclosure of ePHI.
-  * Unauthorized change or destruction of ePHI.
-  * A data breach accomplished by an internal or external entity.
-  * A Denial-of-Service (DoS) attack causing a critical service to become unreachable.
+- **Events** - Any observable computer security-related occurrence in a system or network with a negative consequence. Examples:
+  - Hardware component failing causing service outages.
+  - Software error causing service outages.
+  - General network or system instability.
+- **Precursors** - A sign that an incident may occur in the future. Examples:
+  - Monitoring system showing unusual behavior.
+  - Audit log alerts indicated several failed login attempts.
+  - Suspicious emails targeting specific Ahana staff members with administrative access to production systems.
+- **Indications** - A sign that an incident may have occurred or may be occurring at the present time. Examples:
+  - IDS alerts for modified system files or unusual system accesses.
+  - Antivirus alerts for infected files.
+  - Excessive network traffic directed at unexpected geographic locations.
+- **Incidents** - A violation of computer security policies or acceptable use policies, often resulting in data breaches. Examples:
+  - Unauthorized disclosure of ePHI.
+  - Unauthorized change or destruction of ePHI.
+  - A data breach accomplished by an internal or external entity.
+  - A Denial-of-Service (DoS) attack causing a critical service to become unreachable.
 
-Datica employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security Officer know about any observed precursors or indications as soon as they are discovered.
+Ahana employees must report any unauthorized or suspicious activity seen on production systems or associated with related communication systems (such as email or Slack). In practice this means keeping an eye out for security events, and letting the Security Officer know about any observed precursors or indications as soon as they are discovered.
 
 ### 11.2.1 Identification Phase
 
-1. Immediately upon observation Datica members report suspected and known Events, Precursors, Indications, and Incidents in one of the following ways:
+1. Immediately upon observation Ahana members report suspected and known Events, Precursors, Indications, and Incidents in one of the following ways:
    1. Direct report to management, the Security Officer, Privacy Officer, or other;
    2. Email;
    3. Phone call;
@@ -66,18 +66,18 @@ Datica employees must report any unauthorized or suspicious activity seen on pro
       1. Non-Technical Event (minor infringement): the Security Officer completes a [SIR Form](sections/sir-form.doc) and investigates the incident.
       2. Technical Event: Assign the issue to an IT resource for resolution. This resource may also be a contractor or outsourced technical resource, in the event of a small office or lack of expertise in the area.
    2. If the issue is a security incident the Security Officer activates the Security Incident Response Team (SIRT) and notifies senior management.
-       1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
-       2. Once the investigation is completed, progress to Phase V, Follow-up.
-       3. If the issue is a technical security incident, commence to Phase II: Containment.
-       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
-       5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
-       6. The lead member of the SIRT team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
-3. The Security Officer, Privacy Officer, or Datica representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
-4. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Datica and potentially external.
+      1. If a non-technical security incident is discovered the SIRT completes the investigation, implements preventative measures, and resolves the security incident.
+      2. Once the investigation is completed, progress to Phase V, Follow-up.
+      3. If the issue is a technical security incident, commence to Phase II: Containment.
+      4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
+      5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
+      6. The lead member of the SIRT team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
+4. The Security Officer, Privacy Officer, or Ahana representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
+5. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Ahana and potentially external.
 
 ### 11.2.2 Containment Phase (Technical)
 
-In this Phase, Datica's IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
+In this Phase, Ahana's IT department attempts to contain the security incident. It is extremely important to take detailed notes during the security incident response process. This provides that the evidence gathered during the security incident can be used successfully during prosecution, if appropriate.
 
 1. The SIRT reviews any information that has been collected by the Security Officer or any other individual investigating the security incident.
 2. The SIRT secures the network perimeter.
@@ -133,7 +133,7 @@ The Follow-up Phase represents the review of the security incident to look for "
 
 1. Responders to the security incident (SIRT Team and technical security resource) meet to review the documentation collected during the security incident.
 2. Create a "lessons learned" document and attach it to the completed [SIR Form](sections/sir-form.doc).
-   1. Evaluate the cost and impact of the security incident to Datica using the documents provided by the SIRT and the technical security resource.
+   1. Evaluate the cost and impact of the security incident to Ahana using the documents provided by the SIRT and the technical security resource.
    2. Determine what could be improved.
    3. Communicate these findings to Senior Management for approval and for implementation of any recommendations made post-review of the security incident.
    4. Carry out recommendations approved by Senior Management; sufficient budget, time and resources should be committed to this activity.
@@ -141,11 +141,11 @@ The Follow-up Phase represents the review of the security incident to look for "
 
 ### 11.2.6 Periodic Evaluation
 
-It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding Datica's expectation for them, relative to security responsibilities. The incident response plan is tested annually.
+It is important to note that the processes surrounding security incident response should be periodically reviewed and evaluated for effectiveness. This also involves appropriate training of resources expected to respond to security incidents, as well as the training of the general population regarding Ahana's expectation for them, relative to security responsibilities. The incident response plan is tested annually.
 
 ## 11.3 Security Incident Response Team (SIRT)
 
-Current members of the Datica SIRT:
+Current members of the Ahana SIRT:
 
-* Security Officer
-* Privacy Officer
+- Security Officer
+- Privacy Officer
