@@ -72,7 +72,7 @@ Ahana employees must report any unauthorized or suspicious activity seen on prod
       4. The Containment, Eradication, and Recovery Phases are highly technical. It is important to have them completed by a highly qualified technical security resource with oversight by the SIRT team.
       5. Each individual on the SIRT and the technical security resource document all measures taken during each phase, including the start and end times of all efforts.
       6. The lead member of the SIRT team facilitates initiation of a [SIR Form](sections/sir-form.doc) or an [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR form is to provide a summary of all events, efforts, and conclusions of each Phase of this policy and procedures.
-4. The Security Officer, Privacy Officer, or Ahana representative appointed notifies any affected Customers and Partners. If no Customers and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
+4. The Security Officer, Privacy Officer, or Ahana representative appointed notifies any affected Users and Partners. If no Users and Partners are affected, notification is at the discretion of the Security and Privacy Officer.
 5. In the case of a threat identified, the Security Officer is to form a team to investigate and involve necessary resources, both internal to Ahana and potentially external.
 
 ### 11.2.2 Containment Phase (Technical)
@@ -94,7 +94,7 @@ In this Phase, Ahana's IT department attempts to contain the security incident. 
    8. If it is NOT safe to allow the system to continue operations, discontinue the system(s) operation and move to Phase III, Eradication.
    9. The individual completing this phase provides written communication to the SIRT.
 4. Continuously apprise Senior Management of progress.
-5. Continue to notify affected Customers and Partners with relevant updates as needed
+5. Continue to notify affected Users and Partners with relevant updates as needed
 
 ### 11.2.3 Eradication Phase (Technical)
 
@@ -110,7 +110,7 @@ The Eradication Phase represents the SIRT's effort to remove the cause, and the 
 4. Complete the [Eradication Form](sections/IH-Eradication.pdf).
 5. Update the documentation with the information learned from the vulnerability assessment, including the cause, symptoms, and the method used to fix the problem with the affected system(s).
 6. Apprise Senior Management of the progress.
-7. Continue to notify affected Customers and Partners with relevant updates as needed.
+7. Continue to notify affected Users and Partners with relevant updates as needed.
 8. Move to Phase IV, Recovery.
 
 ### 11.2.4 Recovery Phase (Technical)
@@ -124,7 +124,7 @@ The Recovery Phase represents the SIRT's effort to restore the affected system(s
    4. If the system had not been changed in any way, but was taken offline (i.e., operations had been interrupted), restart the system and monitor for proper behavior.
    5. Update the documentation with the detail that was determined during this phase.
    6. Apprise Senior Management of progress.
-   7. Continue to notify affected Customers and Partners with relevant updates as needed.
+   7. Continue to notify affected Users and Partners with relevant updates as needed.
    8. Move to Phase V, Follow-up.
 
 ### 11.2.5 Follow-up Phase (Technical and Non-Technical)

@@ -18,7 +18,7 @@ Ahana implements policies and procedures to maintain compliance and integrity of
 1. All policies are stored and updated to maintain Ahana compliance with HIPAA, HITRUST, NIST, and other relevant standards. Updates and version control are done similarly to source code control.
 2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
 3. Ahana employees may request changes to policies using the following process:
-   1. The Ahana employee initiates a policy change request by creating an Issue in the Ahana Quality Management System. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
+   1. The Ahana employee initiates a policy change request by creating an Issue in the Ahana Tracking System. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
    2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
    3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
@@ -36,7 +36,7 @@ Ahana implements policies and procedures to maintain compliance and integrity of
    5. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
 7. Policy review is monitored on a quarterly basis using the Tracking System reporting to assess compliance with above policy.
 8. Ahana utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Ahana also tracks compliance with HIPAA and publishes results at [https://hipaa.ahanapediatrics.com](https://hipaa.ahanapediatrics.com). In order to track and measure adherence on an annual basis, Ahana uses the following process to track HITRUST audits, both full and interim:
-   1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the Ahana Quality Management System.
+   1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the Ahana Tracking System.
    2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
    3. Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.
    4. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.

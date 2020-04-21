@@ -29,7 +29,7 @@ Ahana is committed to ensuring all workforce members actively address security a
    - A Human Resources representative will provide the agreement to new employees during their onboarding process.
 4. Ahana does not allow mobile devices to connect to any of its production networks.
 5. All workforce members are educated about the approved set of tools to be installed on workstations.
-6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Ahana and its Customers and Partners.
+6. All new workforce members are given HIPAA training within 30 days of beginning employment. Training includes HIPAA reporting requirements, including the ability to anonymously report security incidents, and the levels of compliance and obligations for Ahana and its Users and Partners.
    - Current Ahana training is hosted at [training.ahanapediatrics.com](https://training.ahanapediatrics.com/).
 7. All remote (teleworking) workforce members are trained on the risks, the controls implemented, their responsibilities, and sanctions associated with violation of policies. Additionally, remote security is maintained through the use of VPN tunnels for all access to production systems with access to ePHI data.
 8. All Ahana-purchased and -owned computers are to display this message at login and when the computer is unlocked: _This computer is owned by Ahana Pediatrics, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ahanapediatrics.com) and have completed this training (https://training.ahanapediatrics.com). Please contact us if you have problems with this - privacy@ahanapediatrics.com_.
@@ -54,7 +54,7 @@ Security incidents, particularly those involving ePHI, are handled using the pro
 
 It is the duty of that owner to follow the process outlined below:
 
-1. Create an Issue in the Ahana Quality Management System.
+1. Create an Issue in the Ahana Tracking System.
 2. The Issue is investigated, documented, and, when a conclusion or remediation is reached, it is moved to Review.
 3. The Issue is reviewed by another member of the Escalation Team. If the Issue is rejected, it goes back for further evaluation and review.
 4. If the Issue is approved, it is marked as Done, adding any pertinent notes required.

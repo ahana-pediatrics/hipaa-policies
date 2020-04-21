@@ -1,8 +1,8 @@
 # 22. Key Definitions
 
-- _Application_: An application hosted by Ahana, either maintained and created by Ahana, or maintained and created by a Customer or Partner.
+- _Application_: An application hosted by Ahana, either maintained and created by Ahana, or maintained and created by a User or Partner.
 
-- _Application Level_: Controls and security associated with an Application. In the case of PaaS Customers, Ahana does not have access to and cannot assure compliance with security standards and policies at the Application Level.
+- _Application Level_: Controls and security associated with an Application.
 
 - _Audit_: Internal process of reviewing information system access and activity (e.g., log-ins, file accesses, and security incidents). An audit may be done as a periodic event, as a result of a patient complaint, or suspicion of employee wrongdoing.
 
@@ -13,8 +13,6 @@
 - _Access_: Means the ability or the means necessary to read, write, modify, or communicate data/ information or otherwise use any system resource.
 
 - _Backup_: The process of making an electronic copy of data stored in a computer system. This can either be complete, meaning all data and programs, or incremental, including just the data that changed from the previous backup.
-
-- _Backup Service_: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Ahana Add-ons and as an option for PaaS Customers.
 
 - _Breach_: Means the acquisition, access, use, or disclosure of protected health information (PHI) in a manner not permitted under the Privacy Rule which compromises the security or privacy of the PHI. For purpose of this definition, "compromises the security or privacy of the PHI" means poses a significant risk of financial, reputational, or other harm to the individual. A use or disclosure of PHI that does not include the identifiers listed at §164.514(e)(2), limited data set, date of birth, and zip code does not compromise the security or privacy of the PHI. Breach excludes:
 
@@ -30,17 +28,15 @@
 
 - _Disaster Recovery_: The ability to recover a system and data after being made unavailable.
 
-- _Disaster Recovery Service_: A disaster recovery service for disaster recovery in the case of system unavailability. This includes both the technical and the non-technical (process) required to effectively stand up an application after an outage. Offered with all Ahana Add-ons and as an option for PaaS Customers.
-
 - _Disclosure_: Disclosure means the release, transfer, provision of, access to, or divulging in any other manner of information outside the entity holding the information.
 
-- _Customers_: Contractually bound users of Ahana Platform.
+- _Users_: Contractually bound users of Ahana Platform.
 
 - _Electronic Protected Health Information (ePHI)_: Any individually identifiable health information protected by HIPAA that is transmitted by, processed in some way, or stored in electronic media.
 
 - _Environment_: The overall technical environment, including all servers, network devices, and applications.
 
-- _Event_: An event is defined as an occurrence that does not constitute a serious adverse effect on Ahana, its operations, or its Customers, though it may be less than optimal. Examples of events include, but are not limited to:
+- _Event_: An event is defined as an occurrence that does not constitute a serious adverse effect on Ahana, its operations, or its Users, though it may be less than optimal. Examples of events include, but are not limited to:
 
   - A hard drive malfunction that requires replacement;
   - Systems become unavailable due to power outage that is non-hostile in nature, with redundancy to assure ongoing availability of data;
@@ -58,16 +54,10 @@
   - The antivirus software alerts when it detects that a host is infected with a worm;
   - Users complain of slow access to hosts on the Internet;
   - The system administrator sees a filename with unusual characteristics;
-  - Automated alerts of activity from log monitors like OSSEC;
-  - An alert from OSSEC about file system integrity issues.
 
 - _Intrusion Detection System (IDS)_: A software tool use to automatically detect and notify in the event of possible unauthorized network and/or system access.
 
-- _IDS Service_: An Intrusion Detection Service for providing IDS notification to customers in the case of suspicious activity. Offered with all Ahana Add-ons and as an option for PaaS Customers.
-
 - _Law Enforcement Official_: Any officer or employee of an agency or authority of the United States, a State, a territory, a political subdivision of a State or territory, or an Indian tribe, who is empowered by law to investigate or conduct an official inquiry into a potential violation of law; or prosecute or otherwise conduct a criminal, civil, or administrative proceeding arising from an alleged violation of law.
-
-- _Logging Service_: A logging service for unifying system and application logs, encrypting them, and providing a dashboard for them. Offered with all Ahana Add-ons and as an option for PaaS Customers.
 
 - _Messaging_: API-based services to deliver and receive SMS messages.
 
@@ -76,8 +66,6 @@
 - _Off-Site_: For the purpose of storage of Backup media, off-site is defined as any location separate from the building in which the backup was created. It must be physically separate from the creating site.
 
 - _Organization_: For the purposes of this policy, the term "organization" shall mean Ahana.
-
-- _Partner_: Contractual bound 3rd party vendor with integration with the Ahana Platform. May offer Add-on services.
 
 - _Platform_: The overall technical environment of Ahana.
 

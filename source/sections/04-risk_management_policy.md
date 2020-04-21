@@ -25,7 +25,7 @@ This policy establishes the scope, objectives, and procedures of Ahana's informa
       - These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Users, or new code developed for operations and management of the Ahana Platform.
    3. Ahana performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
 3. Ahana implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
-   1. Ensure the confidentiality, integrity, and availability of all ePHI Ahana receives, maintains, processes, and/or transmits for its Customers;
+   1. Ensure the confidentiality, integrity, and availability of all ePHI Ahana receives, maintains, processes, and/or transmits for its Users;
    2. Protect against any reasonably anticipated threats or hazards to the security or integrity of User ePHI;
    3. Protect against any reasonably anticipated uses or disclosures of User ePHI that are not permitted or required; and
    4. Ensure compliance by all workforce members.
@@ -39,7 +39,7 @@ This policy establishes the scope, objectives, and procedures of Ahana's informa
    3. All findings are documented in an approved document that is linked to the Issue.
    4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+9. The Risk Management Procedure is monitored on a quarterly basis using the Tracking System reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 

@@ -6,8 +6,6 @@ Ahana provides a secure and compliant cloud-based telemedicine platform designed
 
 ## 1.1 Software as a Service (SaaS)
 
-<!-- TK: explain where our responsiblity starts and ends -->
-
 As a cloud-based platform, Ahana's Users connect to the system via the Internet. Within the system, we are able to manage the security and integrity of all data flowing into and out of our networks. Data is encrypted in transit and at rest. At the perimeter of our systems, however, we are reliant on good practices by our healthcare users to ensure that any ePHI that they download, print or otherwise copy from our systems is handled in compliance with relevant guidlines. Since our healthcare provider Users are professionals in the medical field, they are expected to be well-versed and trained in HIPAA and its implications. Our patient Users are not bound by HIPAA, but are only able to access their own ePHI and so do not represent a risk.
 
 ## 1.2 Compliance Inheritance
@@ -45,7 +43,7 @@ The following process is used to request audit reports:
 3. Ahana will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Ahana will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Ahana staff will move the issue to "Under Review".
 5. The Ahana Security Officer or Privacy Officer must Approve or Reject the Issue. If the Issue is rejected, Ahana will notify the requesting party that we cannot share the requested report.
-6. If the issue has been Approved, Ahana will send the customer the requested audit report and complete the Quality Management System issue for the request.
+6. If the issue has been Approved, Ahana will send the customer the requested audit report and complete the Tracking System issue for the request.
 
 ## 1.5 Version Control
 

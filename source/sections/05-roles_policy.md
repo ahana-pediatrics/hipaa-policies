@@ -47,7 +47,7 @@ The current Ahana Privacy Officer is Chelsea Bodnar ([chelsea.bodnar@ahanapediat
    9. Users are required to report unauthorized attempts, uses of, and theft of Ahana's systems and/or workstations;
    10. Users are required to report unauthorized access to facilities
    11. Users are required to report noted log-in discrepancies (i.e. application states user's last log-in was on a date user was on vacation);
-   12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Ahana Customer;
+   12. Users may not alter ePHI maintained in a database, unless authorized to do so by a Ahana User;
    13. Users are required to understand their role in Ahana's contingency plan;
    14. Users may not share their user names nor passwords with anyone;
    15. Requirements for users to create and change passwords;

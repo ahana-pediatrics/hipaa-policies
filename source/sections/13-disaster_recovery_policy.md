@@ -50,15 +50,14 @@ Ahana defines two categories of systems from a disaster recovery perspective.
 The following order of succession to ensure that decision-making authority for the Ahana Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Ahana Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
 - Dan Rumney, CTO/Security Officer: 512-573-5068, dan.rumney@ahanapediatrics.com
-  <!-- TK: Chelsea's phone number -->
-- Chelsea Bodnar, CEO/Privacy Officer: xxx-xxx-xxxx, chelsea.bodnar@ahanapediatrics.com
+- Chelsea Bodnar, CEO/Privacy Officer: 406-303-1078, chelsea.bodnar@ahanapediatrics.com
 
 ## 13.3 Responsibilities
 
 The following teams have been developed and trained to respond to a contingency event affecting the IT system.
 
 1. The **Ops Team** is responsible for recovery of the Ahana hosted environment, network devices, and all servers. Members of the team include personnel who are also responsible for the daily operations and maintenance of Ahana. The team leader is the CTO and directs the Dev Ops Team.
-2. The **Web Services Team** is responsible for assuring all application servers, web services, and platform add-ons are working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
+2. The **Web Services Team** is responsible for assuring all application serversare working. It is also responsible for testing redeployments and assessing damage to the environment. The team leader is the CTO and directs the Web Services Team.
 
 Members of the Ops and Web Services teams must maintain local copies of the contact information from [§13.2](#13.2-line-of-succession). Additionally, the CTO must maintain a local copy of this policy in the event Internet access is not available during a disaster scenario.
 
@@ -115,9 +114,9 @@ Recovery Goal: The goal is to rebuild Ahana infrastructure to a production state
 
 The tasks outlines below are not sequential and some can be run in parallel.
 
-1. Contact Partners and Customers affected - Web Services
+1. Contact Partners and Users affected - Web Services
 2. Assess damage to the environment - Web Services
-3. Begin replication of new environment using automated and tested scripts, currently Chef and Salt. At this point it is determined whether to recover in Rackspace, AWS, Azure, or SoftLayer. - Dev Ops
+3. Begin replication of new environment using automated and tested scripts, currently Terraform and Ansible. - Dev Ops
 4. Test new environment using pre-written tests - Web Services
 5. Test logging, security, and alerting functionality - Dev Ops
 6. Assure systems are appropriately patched and up to date. - Dev Ops
@@ -129,7 +128,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 This section discusses activities necessary for restoring Ahana operations at the original or new site. The goal is to restore full operations within 24 hours of a disaster or outage. When the hosted data center at the original or new site has been restored, Ahana operations at the alternate site may be transitioned back. The goal is to provide a seamless transition of operations from the alternate site to the computer center.
 
 1. Original or New Site Restoration
-   - Begin replication of new environment using automated and tested scripts, currently Chef and Salt. - Dev Ops
+   - Begin replication of new environment using automated and tested scripts, currently Ansible and Terraform. - Dev Ops
    - Test new environment using pre-written tests. - Web Services
    - Test logging, security, and alerting functionality. - Dev Ops
    - Deploy environment to production - Web Services
