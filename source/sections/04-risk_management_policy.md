@@ -18,29 +18,28 @@ This policy establishes the scope, objectives, and procedures of Ahana's informa
 
 ## 4.2 Risk Management Policies
 
-1. It is the policy of Ahana to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Customers and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Ahana's information security program.
+1. It is the policy of Ahana to conduct thorough and timely risk assessments of the potential threats and vulnerabilities to the confidentiality, integrity, and availability of electronic protected health information (ePHI) (and other confidential and proprietary electronic information) it stores, transmits, and/or processes for its Users and to develop strategies to efficiently and effectively mitigate the risks identified in the assessment process as an integral part of the Ahana's information security program.
 2. Risk analysis and risk management are recognized as important components of Ahana's corporate compliance program and information security program in accordance with the Risk Analysis and Risk Management implementation specifications within the Security Management standard and the evaluation standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A), 164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles;
    2. Before the integration of new system technologies and before changes are made to Ahana physical safeguards; and
-      - These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Customers, or new code developed for operations and management of the Ahana Platform.
-   3. While making changes to Ahana physical equipment and facilities that introduce new, untested configurations.
-   4. Ahana performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
+      - These changes do not include routine updates to existing systems, deployments of new systems created based on previously configured systems, deployments of new Users, or new code developed for operations and management of the Ahana Platform.
+   3. Ahana performs periodic technical and non-technical assessments of the security rule requirements as well as in response to environmental or operational changes affecting the security of ePHI.
 3. Ahana implements security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level to:
    1. Ensure the confidentiality, integrity, and availability of all ePHI Ahana receives, maintains, processes, and/or transmits for its Customers;
-   2. Protect against any reasonably anticipated threats or hazards to the security or integrity of Customer ePHI;
-   3. Protect against any reasonably anticipated uses or disclosures of Customer ePHI that are not permitted or required; and
+   2. Protect against any reasonably anticipated threats or hazards to the security or integrity of User ePHI;
+   3. Protect against any reasonably anticipated uses or disclosures of User ePHI that are not permitted or required; and
    4. Ensure compliance by all workforce members.
 4. Any risk remaining (residual) after other risk controls have been applied, requires sign off by the senior management and Ahana's Security Officer.
 5. All Ahana workforce members are expected to fully cooperate with all persons charged with doing risk management work, including contractors and audit personnel. Any workforce member that violates this policy will be subject to disciplinary action based on the severity of the violation, as outlined in the Ahana Roles Policy.
 6. The implementation, execution, and maintenance of the information security risk analysis and risk management process is the responsibility of Ahana's Security Officer (or other designated employee), and the identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put in place as well as those to not put into place, are documented and the documentation is maintained for six years.
 8. The details of the Risk Management Process, including risk assessment, discovery, and mitigation, are outlined in detail below. The process is tracked, measured, and monitored using the following procedures:
-9. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Ahana Quality Management System.
-10. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
-11. All findings are documented in an approved spreadsheet that is linked to the Issue.
-12. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-13. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-14. The Risk Management Procedure is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+   1. The Security Officer or the Privacy Officer initiates the Risk Management Procedures by creating an Issue in the Ahana Tracking System.
+   2. The Security Officer or the Privacy Officer is assigned to carry out the Risk Management Procedures.
+   3. All findings are documented in an approved document that is linked to the Issue.
+   4. Once the Risk Management Procedures are complete, along with corresponding documentation, the Security Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
+   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+9. The Risk Management Procedure is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 ## 4.3 Risk Management Procedures
 
