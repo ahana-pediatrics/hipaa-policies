@@ -23,19 +23,19 @@ Ahana implements policies and procedures to maintain compliance and integrity of
    3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
    5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using Ahana's [change management process (§9.4)](#9.4-changing-existing-systems).
-4. All policies are made accessible to all Ahana workforce members. The current master policies are published at [https://policy.ahanapediatrics.com](https://policy.ahanapediatrics.com).
+4. All policies are made accessible to all Ahana workforce members. The current master policies are published at [https://policy.ahana.health](https://policy.ahana.health).
    - The Security Officer also communicates policy changes to all employees via email. These emails include a high-level description of the policy change using terminology appropriate for the target audience.
 5. All policies, and associated documentation, are retained for 6 years from the date of its creation or the date when it last was in effect, whichever is later
    1. Version history of all Ahana policies is done via GitHub.
    2. Published updates are tracked with date-based tags in Github.
 6. The policies and information security policies are reviewed and audited annually, or after significant changes occur to Ahana's organizational environment. Issues that come up as part of this process are reviewed by Ahana management to assure all risks and potential gaps are mitigated and/or fully addressed. The process for reviewing polices is outlined below:
    1. The Security Officer initiates the policy review by creating an Issue in the Ahana Ticketing System.
-   2. The Security Officer or the Privacy Officer is assigned to review the current Ahana policies ([https://policy.ahanapediatrics.com/](https://policy.ahanapediatrics.com/)).
+   2. The Security Officer or the Privacy Officer is assigned to review the current Ahana policies ([https://policy.ahana.health/](https://policy.ahana.health/)).
    3. If changes are made, the above process is used. All changes are documented in the Issue.
    4. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
    5. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
 7. Policy review is monitored on a quarterly basis using the Tracking System reporting to assess compliance with above policy.
-8. Ahana utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Ahana also tracks compliance with HIPAA and publishes results at [https://hipaa.ahanapediatrics.com](https://hipaa.ahanapediatrics.com). In order to track and measure adherence on an annual basis, Ahana uses the following process to track HITRUST audits, both full and interim:
+8. Ahana utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. Ahana also tracks compliance with HIPAA and publishes results at [https://hipaa.ahana.health](https://hipaa.ahana.health). In order to track and measure adherence on an annual basis, Ahana uses the following process to track HITRUST audits, both full and interim:
    1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the Ahana Tracking System.
    2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
    3. Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.

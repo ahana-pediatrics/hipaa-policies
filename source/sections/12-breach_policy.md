@@ -72,7 +72,7 @@ In the case of a breach, Ahana shall notify all affected Users. It is the respon
 
 Dear [Name of User]:
 
-I am writing to you from Ahana Pediatrics, Inc., with important information about a recent breach that affects your account with us. We became aware of this breach on [Insert Date] which occurred on or about [Insert Date]. The breach occurred as follows:
+I am writing to you from Ahana Health, Inc., with important information about a recent breach that affects your account with us. We became aware of this breach on [Insert Date] which occurred on or about [Insert Date]. The breach occurred as follows:
 
 Describe event and include the following information:
 
@@ -91,7 +91,7 @@ We will assist you in remedying the situation.
 Sincerely,
 
 Chelsea Bodnar, MD  
-Co-founder - Ahana Pediatrics, Inc.  
-chelsea.bodnar@ahanapediatrics.com
+Co-founder - Ahana Health, Inc.  
+chelsea.bodnar@ahana.health
 
 406-303-1078

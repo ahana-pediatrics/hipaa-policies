@@ -49,8 +49,8 @@ Ahana defines two categories of systems from a disaster recovery perspective.
 
 The following order of succession to ensure that decision-making authority for the Ahana Contingency Plan is uninterrupted. The Chief Technology Officer (CTO) is responsible for ensuring the safety of personnel and the execution of procedures documented within this Ahana Contingency Plan. If the CTO is unable to function as the overall authority or chooses to delegate this responsibility to a successor, the CEO or COO shall function as that authority. To provide contact initiation should the contingency plan need to be initiated, please use the contact list below.
 
-- Dan Rumney, CTO/Security Officer: 512-573-5068, dan.rumney@ahanapediatrics.com
-- Chelsea Bodnar, CEO/Privacy Officer: 406-303-1078, chelsea.bodnar@ahanapediatrics.com
+- Dan Rumney, CTO/Security Officer: 512-573-5068, dan.rumney@ahana.health
+- Chelsea Bodnar, CEO/Privacy Officer: 406-303-1078, chelsea.bodnar@ahana.health
 
 ## 13.3 Responsibilities
 

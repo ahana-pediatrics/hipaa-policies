@@ -111,7 +111,7 @@ All workstations at Ahana are company owned, and all are laptop Apple products r
 6. Users may not misrepresent, obscure, suppress, or replace another user's identity in transmitted or stored messages.
 7. Workstation hard drives will be encrypted using FileVault 2.0 or equivalent.
 8. All workstations have firewalls enabled to prevent unauthorized access unless explicitly granted.
-9. All workstations are to have the following messages added to the lock screen and login screen: _This computer is owned by Ahana Pediatrics, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ahanapediatrics.com). Please contact us if you have problems with this - privacy@ahanapediatrics.com._
+9. All workstations are to have the following messages added to the lock screen and login screen: _This computer is owned by Ahana Health, Inc. By logging in, unlocking, and/or using this computer you acknowledge you have seen, and follow, these policies (https://policy.ahana.health). Please contact us if you have problems with this - privacy@ahana.health._
 
 ## 7.9 Wireless Access Use
 
@@ -159,7 +159,7 @@ Ahana does not use paper records for any sensitive information. Use of paper for
 10. All passwords used in configuration scripts are secured and encrypted.
 11. If a user believes their user ID has been compromised, they are required to immediately report the incident to the Security Office.
 12. In cases where a user has forgotten their password, the following procedure is used to reset the password.
-    - The user navigates to [https://app.ahanapediatrics.com/#resetPassword](https://app.ahanapediatrics.com/#resetPassword) and submits a password reset request.
+    - The user navigates to [https://app.ahana.health/#resetPassword](https://app.ahana.health/#resetPassword) and submits a password reset request.
     - An email is sent to the provided email address.
     - If the email address is unknown, the recipient is alerted to this fact.
     - If the email address is known, an expiring link is provided to allow the user to set a new password.

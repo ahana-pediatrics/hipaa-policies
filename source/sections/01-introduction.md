@@ -1,6 +1,6 @@
 # 1. Introduction
 
-Ahana Pediatrics, Inc ("Ahana") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Users. As the provider of a compliant, cloud-based telemedicine platform for healthcare providers and their patients, Ahana strives to maintain compliance, proactively address information security, mitigate risk for its Users, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Ahana to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Ahana Users.
+Ahana Health, Inc ("Ahana") is committed to ensuring the confidentiality, privacy, integrity, and availability of all electronic protected health information (ePHI) it receives, maintains, processes and/or transmits on behalf of its Users. As the provider of a compliant, cloud-based telemedicine platform for healthcare providers and their patients, Ahana strives to maintain compliance, proactively address information security, mitigate risk for its Users, and assure known breaches are completely and effectively communicated in a timely manner. The following documents address core policies used by Ahana to maintain compliance and assure the proper protections of infrastructure used to store, process, and transmit ePHI for Ahana Users.
 
 Ahana provides a secure and compliant cloud-based telemedicine platform designed for healthcare providers. Our commercial relationship is with these providers, but we count their patients among our Users and our policies are designed to protect these Users as much as our healthcare professionals. Ahana is provided as a modified Software as a Service (SaaS) offering to our providers. Medical practices and professionals are not free to sign-up unilaterally, but once they are integrated into our system, things are largely self-service.
 
@@ -38,7 +38,7 @@ Ahana, at its sole discretion, shares internal audit reports, including its inte
 
 The following process is used to request audit reports:
 
-1. Email is sent to compliance-reports@ahanapediatrics.com. In the email, please specify the type of report being requested and any required timelines for the report.
+1. Email is sent to compliance-reports@ahana.health. In the email, please specify the type of report being requested and any required timelines for the report.
 2. Ahana staff will log an issue with the details of the request into the Ahana Support System. The Ahana Support System is used to track requests' status and outcomes.
 3. Ahana will confirm if a current NDA is in place with the party requesting the audit report. If there is no NDA in place, Ahana will send one for execution.
 4. Once it has been confirmed that an NDA is executed, Ahana staff will move the issue to "Under Review".

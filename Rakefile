@@ -21,6 +21,6 @@ end
 
 desc "Deploy site to AWS"
 task :deploy do
-  system("aws s3 sync build s3://policy.ahanapediatrics.com")
+  system("aws s3 sync build s3://policy.ahana.health")
   system("aws cloudfront create-invalidation --distribution-id E10IGBL3RQGLLT --paths /\\*")
 end

@@ -2,7 +2,7 @@
 
 THIS HIPAA BUSINESS ASSOCIATE AGREEMENT (this “Agreement”) supplements and is made a
 part of the Telemedicine Platform License Agreement (the “Underlying Agreement”) by and between Provider
-(“Covered Entity”) and Ahana Pediatrics, Inc., (“Business Associate”) (each a “Party” and collectively, the
+(“Covered Entity”) and Ahana Health, Inc., (“Business Associate”) (each a “Party” and collectively, the
 “Parties”) and is effective as of the effective date of the Underlying Agreement (the “Effective Date”).
 
 _WITNESSETH_:
