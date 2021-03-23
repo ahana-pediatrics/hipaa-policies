@@ -16,7 +16,7 @@ end
 
 desc "Run a simple web server within the build directory"
 task :serve_static do
-  system("cd build && python -m SimpleHTTPServer 8888")
+  system("cd build && python -m http.server 8888")
 end
 
 desc "Deploy site to AWS"
